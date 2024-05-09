@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T13:00:58.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="iqjmKRVlUBuP9irVw3j1" version="24.3.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-05-09T13:02:32.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="rGzLaPTHVBYCyLY1xhMj" version="24.3.1" type="github" pages="18">
   <diagram name="Kurs_new" id="YInqkdOugQ5nbznjHzpf">
     <mxGraphModel dx="1242" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8478,7 +8478,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11FX3KP-UJS15DTHdWpI" name="Страница — 16">
-    <mxGraphModel dx="2069" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2601" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9588,10 +9588,7 @@
             <mxPoint x="-140" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w6DYnz1ZQF3_sWoAEAyn-595" value="База данных &quot;Семейный бюджет&quot; таблица &quot;Экстра-Пользователь&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="980" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="w6DYnz1ZQF3_sWoAEAyn-597" value="База данных &quot;Семейный бюджет&quot; таблица &quot;Экстра-расходы&quot; и &quot;Экстра-Пользователь&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w6DYnz1ZQF3_sWoAEAyn-597" value="База данных &quot;Семейный бюджет&quot; таблица &quot;Экстра-расходы&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="1169" width="130" height="81" as="geometry" />
         </mxCell>
         <mxCell id="w6DYnz1ZQF3_sWoAEAyn-598" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.992;entryY=0.714;entryDx=0;entryDy=0;strokeColor=#CC6600;entryPerimeter=0;" parent="1" source="w6DYnz1ZQF3_sWoAEAyn-362" target="w6DYnz1ZQF3_sWoAEAyn-597" edge="1">
@@ -9606,10 +9603,10 @@
             <mxPoint x="110" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w6DYnz1ZQF3_sWoAEAyn-600" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.993;entryY=0.362;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#CC6600;" parent="1" source="w6DYnz1ZQF3_sWoAEAyn-345" target="w6DYnz1ZQF3_sWoAEAyn-595" edge="1">
+        <mxCell id="w6DYnz1ZQF3_sWoAEAyn-600" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.798;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#CC6600;" parent="1" source="w6DYnz1ZQF3_sWoAEAyn-345" target="w6DYnz1ZQF3_sWoAEAyn-395" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-60" y="940" as="sourcePoint" />
-            <mxPoint x="-10" y="890" as="targetPoint" />
+            <mxPoint x="-220.83999999999992" y="1008.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w6DYnz1ZQF3_sWoAEAyn-603" value="База данных &quot;Семейный бюджет&quot; таблица &quot;Остаток&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -9642,8 +9639,8 @@
             <mxPoint x="940" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w6DYnz1ZQF3_sWoAEAyn-610" value="База данных &quot;Семейный бюджет&quot; таблица &quot;Родственники&quot; и &quot;Родственники_Пользователь&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="565" width="210" height="115" as="geometry" />
+        <mxCell id="w6DYnz1ZQF3_sWoAEAyn-610" value="База данных &quot;Семейный бюджет&quot; таблица &quot;Родственники&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="565" width="190" height="85" as="geometry" />
         </mxCell>
         <mxCell id="w6DYnz1ZQF3_sWoAEAyn-611" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#CC6600;" parent="1" source="w6DYnz1ZQF3_sWoAEAyn-610" target="w6DYnz1ZQF3_sWoAEAyn-281" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -9672,7 +9669,7 @@
             <mxPoint x="410" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w6DYnz1ZQF3_sWoAEAyn-616" value="База данных &quot;Семейный бюджет&quot; таблица &quot;Родственники_Юзер&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="w6DYnz1ZQF3_sWoAEAyn-616" value="База данных &quot;Семейный бюджет&quot; таблица &quot;Родственники&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="290" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="w6DYnz1ZQF3_sWoAEAyn-617" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.019;exitY=0.136;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#CC6600;" parent="1" source="w6DYnz1ZQF3_sWoAEAyn-222" target="w6DYnz1ZQF3_sWoAEAyn-616" edge="1">
