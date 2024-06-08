@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T12:38:02.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="g-5FDGUJHQcD3ZAjk4zZ" version="24.4.13" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-08T12:48:32.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="EX_TCYK6yegPDZFKOCto" version="24.4.13" type="github" pages="18">
   <diagram name="Kurs_new" id="YInqkdOugQ5nbznjHzpf">
     <mxGraphModel dx="1242" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6570,15 +6570,15 @@
           <mxGeometry x="344.5" y="2100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eVVQwaz1x9uASB5O-O_b-132" value="Мани-бокс" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="332.5" y="2190" width="144" height="50" as="geometry" />
+          <mxGeometry x="163.5" y="1980" width="144" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eVVQwaz1x9uASB5O-O_b-133" value="Если пользователь выбрал тройной процент, то значение положительное" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="344.5" y="2270" width="120" height="60" as="geometry" />
+          <mxGeometry x="175.5" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eVVQwaz1x9uASB5O-O_b-134" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eVVQwaz1x9uASB5O-O_b-132" target="eVVQwaz1x9uASB5O-O_b-133" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="377.5" y="2410" as="sourcePoint" />
-            <mxPoint x="397.5" y="2290" as="targetPoint" />
+            <mxPoint x="208.5" y="2200" as="sourcePoint" />
+            <mxPoint x="228.5" y="2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fGcZOl6A2jvgbkXqT8IU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fGcZOl6A2jvgbkXqT8IU-1" target="fGcZOl6A2jvgbkXqT8IU-2" edge="1">
@@ -6662,12 +6662,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C8zx1O8mfjaGtEVXY63--28" value="Если пользователь выбрал двойной процент, то значений нет" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="202.5" y="2270" width="120" height="60" as="geometry" />
+          <mxGeometry x="33.5" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C8zx1O8mfjaGtEVXY63--29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eVVQwaz1x9uASB5O-O_b-132" target="C8zx1O8mfjaGtEVXY63--28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="2350" as="sourcePoint" />
-            <mxPoint x="210" y="2300" as="targetPoint" />
+            <mxPoint x="-9" y="2140" as="sourcePoint" />
+            <mxPoint x="41" y="2090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
