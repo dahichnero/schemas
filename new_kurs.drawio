@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-09T11:58:52.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="EGKTJzFMdG6wAPHYeYHM" version="24.5.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-09T12:03:12.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="TvxS6Sq7S95tES3Oojbd" version="24.5.2" type="github" pages="18">
   <diagram name="Kurs_new" id="YInqkdOugQ5nbznjHzpf">
     <mxGraphModel dx="1242" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12202,7 +12202,7 @@
         <mxCell id="upE7bmk6ljxrjoUQrSaG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PMATRFk668QwpG1EvX7X-6" target="PMATRFk668QwpG1EvX7X-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PMATRFk668QwpG1EvX7X-6" value="Login, Password, Name, Target, TargetName, Procent, Income, HowYet, Figure" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="PMATRFk668QwpG1EvX7X-6" value="Login, Password, Name, Target, TargetName, Procent, Income, Figure" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="142.5" width="170" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="PMATRFk668QwpG1EvX7X-8" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
