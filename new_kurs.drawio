@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T16:14:12.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="n_cqeYdGUoVYyOIpNM76" version="24.5.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-10T16:18:21.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="JUK8AlgFTOiwM5hDVIXO" version="24.5.2" type="github" pages="18">
   <diagram name="Kurs_new" id="YInqkdOugQ5nbznjHzpf">
     <mxGraphModel dx="1242" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9789,7 +9789,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CngUg3RurUz2n0kb9TbN" name="Страница — 17">
-    <mxGraphModel dx="2601" dy="-345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2288" dy="-490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11771,6 +11771,15 @@
         </mxCell>
         <mxCell id="bo7p90DSUicjzXUyDKMQ-17" value="Окно для изменения цели" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-530" y="3549.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bo7p90DSUicjzXUyDKMQ-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bo7p90DSUicjzXUyDKMQ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="3540" as="sourcePoint" />
+            <mxPoint x="190" y="3499.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bo7p90DSUicjzXUyDKMQ-53" value="Может повторяться от количества родственников" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="3500" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
