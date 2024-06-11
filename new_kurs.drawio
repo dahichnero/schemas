@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T05:06:03.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="8YLBIHvqGeT46dBzL6ft" version="24.5.2" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-06-11T05:19:00.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ZdJ2GRLX4nz48Bo6mOwI" version="24.5.2" type="github" pages="18">
   <diagram name="Kurs_new" id="YInqkdOugQ5nbznjHzpf">
     <mxGraphModel dx="1242" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7412,13 +7412,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vjpQ7ShH4dyARdcvEdSE-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vjpQ7ShH4dyARdcvEdSE-71" target="vjpQ7ShH4dyARdcvEdSE-73" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="150" y="545" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vjpQ7ShH4dyARdcvEdSE-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vjpQ7ShH4dyARdcvEdSE-71" target="vjpQ7ShH4dyARdcvEdSE-74" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -7459,9 +7452,6 @@
         </mxCell>
         <mxCell id="vjpQ7ShH4dyARdcvEdSE-72" value="Изм./добавление родственников" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="490" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vjpQ7ShH4dyARdcvEdSE-73" value="Удаление родственников" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="530" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vjpQ7ShH4dyARdcvEdSE-74" value="Информации о родственниках и ЗП" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="570" width="120" height="30" as="geometry" />
@@ -7737,7 +7727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="11FX3KP-UJS15DTHdWpI" name="Страница — 16">
-    <mxGraphModel dx="1782" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2288" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9317,13 +9307,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdXuRPqJmSBoQPPA8xoY-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qdXuRPqJmSBoQPPA8xoY-81" target="qdXuRPqJmSBoQPPA8xoY-84" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-490" y="1985" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qdXuRPqJmSBoQPPA8xoY-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qdXuRPqJmSBoQPPA8xoY-81" target="qdXuRPqJmSBoQPPA8xoY-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -9364,9 +9347,6 @@
         </mxCell>
         <mxCell id="qdXuRPqJmSBoQPPA8xoY-83" value="Изм./добавление родственников" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="1930" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="qdXuRPqJmSBoQPPA8xoY-84" value="Удаление родственников" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="1970" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qdXuRPqJmSBoQPPA8xoY-85" value="Информации о родственниках и ЗП" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="2010" width="120" height="30" as="geometry" />
@@ -9737,12 +9717,6 @@
             <mxPoint x="-310" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="msqT7kOlEYph2dvcOloB-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#FF0000;" parent="1" source="qdXuRPqJmSBoQPPA8xoY-84" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-601" y="1992" as="sourcePoint" />
-            <mxPoint x="-600" y="1960" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="msqT7kOlEYph2dvcOloB-24" value="База данных &quot;Семейный бюджет&quot; таблица &quot;Пользователь&quot;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="2429" width="120" height="80" as="geometry" />
         </mxCell>
@@ -9779,7 +9753,7 @@
             <mxPoint x="-240" y="1570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="STQxx_D7c0QkUjS9lhbH-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#FF0000;" edge="1" parent="1">
+        <mxCell id="STQxx_D7c0QkUjS9lhbH-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#FF0000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-480" y="1935" as="sourcePoint" />
             <mxPoint x="-600" y="1925" as="targetPoint" />
